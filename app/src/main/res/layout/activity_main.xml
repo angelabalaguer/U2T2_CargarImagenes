@@ -12,11 +12,21 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="miimageloader"
-        android:text="Mi image Loader" />
+        android:text="Mi imagen Loader" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="mipicaso"
         android:text="Mi imagen picaso" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="miglide"
+        android:text="Mi imagen glide" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="mifresco"
+        android:text="Mi imagen fresco" />
 
 </LinearLayout>

@@ -22,4 +22,14 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this ,MiPicasso.class));
 
     }
+
+    public void miglide(View view) {
+        startActivity(new Intent(this ,MiGlide.class));
+
+    }
+
+    public void mifresco(View view) {
+        startActivity(new Intent(this ,MiFresco.class));
+
+    }
 }
